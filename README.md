@@ -3,7 +3,7 @@
 
 
 - 👋 ola meu nome é @modinh4
-- :+1: de contato é [email](jose.santos.gabriel@escola.pr.gov.br)
+- :+1: meu email de contato é [email](jose.santos.gabriel@escola.pr.gov.br)
 - 👀 eu estou interessado em apreder mais sobre os eventos historicos 
 - 🌱 Eu estou aprendendo a progamar recentemente a linguagem do javascript e scratch
 
